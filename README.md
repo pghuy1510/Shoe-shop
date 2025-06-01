@@ -58,7 +58,7 @@ Sơ đồ các chức năng UML:
 
 ### 5. Giao diện trang web
 
-- Giao diện đăng nhậpnhập
+- Giao diện đăng nhập 
 
 ![alt text](./public/dist/img/image-11.png)
 
