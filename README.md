@@ -1,61 +1,68 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+### 1.Giới thiệu dự án
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+Nhắc đến internet tại thời điểm này thì không còn quá xa lạ. Song có những lợi ích mà môi trường online này mang lại thì không phải ai cũng biết. Có thể nói, mạng internet là nơi mà con người có thể nói chuyện, trao đổi dữ liệu, đặc biệt có thể mua hàng trên mạng mà không cần phải tới trực tiếp cửa hàng, mà có được một món hàng mình ưng ý.
 
-## About Laravel
+Shoe Shop là một ứng dụng web thương mại điện tử đơn giản áp dụng công nghệ thông tin vào hoạt động buôn bán giày qua mạng và sau này sẽ có xu hướng mở rộng.Và là một cửa hàng chuyên nhập giày từ các công ty phân phối nổi tiếng như Adidas, Nike, Converse, Biti’s,… để cho người tiêu dùng. Việc giao dịch với khách hàng chủ yếu diễn ra trên website.
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Dự án Shoe Shop được xây dựng trên nền tảng Laravel, một framework PHP hiện đại và mạnh mẽ, sử dụng PHP 8.3.21 làm ngôn ngữ backend chính. Ứng dụng quản lý dữ liệu qua MySQL để thao tác cơ sở dữ liệu hiệu quả. Giao diện người dùng được phát triển với Blade Template và Bootstrap giúp đảm bảo tính responsive và thân thiện. Các công cụ như Composer hỗ trợ quản lý thư viện. Ngoài ra, Laravel Mix được dùng để quản lý tài sản frontend, mang lại trải nghiệm mượt mà cho người dùng.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+### 2. Sinh viên thực hiện
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+Họ và tên: Phạm Gia Huy
 
-## Learning Laravel
+Mã số sinh viên: 22010043
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+Lớp: K16-CNTT3
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+### 3. Sơ đồ khối UML
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+- Sơ đồ của trang web
 
-## Laravel Sponsors
+![alt text](image-1.png)
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+### 4. Sơ đồ các chức năng UML
 
-### Premium Partners
+Sơ đồ các chức năng UML:
 
-- **[Vehikl](https://vehikl.com)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Redberry](https://redberry.international/laravel-development)**
-- **[Active Logic](https://activelogic.com)**
+- Sơ đồ UML chức năng đăng nhập người dùng
+    ![alt text](image-2.png)
 
-## Contributing
+- Sơ đồ UML chức năng đăng nhập admin
+![alt text](image.png)
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+- Sơ đồ UML chức năng danh sách sản phẩm
+![alt text](image-7.png)
 
-## Code of Conduct
+- Sơ đồ UML chức năng thêm sản phẩm
+![alt text](image-4.png)
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+- Sơ đồ UML chức năng sửa sản phẩm 
+![alt text](image-5.png)
 
-## Security Vulnerabilities
+- Sơ đồ UML chức năng xem sản phẩm 
+![alt text](image-8.png)
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+- Sơ đồ UML chức năng xóa sản phẩm 
+![alt text](image-9.png)
 
-## License
+- Sơ đồ UML chức năng đặt đơn hàng 
+![alt text](image-10.png)
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+### 5. Giao diện trang web 
+- Giao diện đăng nhậpnhập
+![alt text](image-11.png)
+
+- Giao diện trang admin
+![alt text](image-12.png)
+
+- Giao diện trang chủ 
+![alt text](image-13.png)
+
+- Giao diện trang sản phẩm 
+![alt text](image-14.png)
+
+- Giao diện giỏ hàng 
+![alt text](image-15.png)
+
+- Giao diện liên hệ
+![alt text](image-16.png)
