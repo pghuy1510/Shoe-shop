@@ -25,44 +25,59 @@ Lớp: K16-CNTT3
 Sơ đồ các chức năng UML:
 
 - Sơ đồ UML chức năng đăng nhập người dùng
+
     ![alt text](./public/dist/img/image-2.png)
 
 - Sơ đồ UML chức năng đăng nhập admin
+
 ![alt text](./public/dist/img/image.png)
 
 - Sơ đồ UML chức năng danh sách sản phẩm
+
 ![alt text](./public/dist/img/image-7.png)
 
 - Sơ đồ UML chức năng thêm sản phẩm
+
 ![alt text](./public/dist/img/image-4.png)
 
 - Sơ đồ UML chức năng sửa sản phẩm 
+
 ![alt text](./public/dist/img/image-5.png)
 
 - Sơ đồ UML chức năng xem sản phẩm 
+
 ![alt text](./public/dist/img/image-8.png)
 
 - Sơ đồ UML chức năng xóa sản phẩm 
+
 ![alt text](./public/dist/img/image-9.png)
 
 - Sơ đồ UML chức năng đặt đơn hàng 
+
 ![alt text](./public/dist/img/image-10.png)
 
-### 5. Giao diện trang web 
+### 5. Giao diện trang web
+
 - Giao diện đăng nhậpnhập
+
 ![alt text](./public/dist/img/image-11.png)
 
 - Giao diện trang admin
+
 ![alt text](./public/dist/img/image-12.png)
 
 - Giao diện trang chủ 
+
 ![alt text](./public/dist/img/image-13.png)
 
 - Giao diện trang sản phẩm 
+
 ![alt text](./public/dist/img/image-14.png)
 
 - Giao diện giỏ hàng 
+
 ![alt text](./public/dist/img/image-15.png)
 
 - Giao diện liên hệ
+
 ![alt text](./public/dist/img/image-16.png)
