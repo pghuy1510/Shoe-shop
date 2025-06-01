@@ -18,51 +18,51 @@ Lớp: K16-CNTT3
 
 - Sơ đồ của trang web
 
-![alt text](image-1.png)
+![alt text](./public/dist/img/image-1.png)
 
 ### 4. Sơ đồ các chức năng UML
 
 Sơ đồ các chức năng UML:
 
 - Sơ đồ UML chức năng đăng nhập người dùng
-    ![alt text](image-2.png)
+    ![alt text](./public/dist/img/image-2.png)
 
 - Sơ đồ UML chức năng đăng nhập admin
-![alt text](image.png)
+![alt text](./public/dist/img/image.png)
 
 - Sơ đồ UML chức năng danh sách sản phẩm
-![alt text](image-7.png)
+![alt text](./public/dist/img/image-7.png)
 
 - Sơ đồ UML chức năng thêm sản phẩm
-![alt text](image-4.png)
+![alt text](./public/dist/img/image-4.png)
 
 - Sơ đồ UML chức năng sửa sản phẩm 
-![alt text](image-5.png)
+![alt text](./public/dist/img/image-5.png)
 
 - Sơ đồ UML chức năng xem sản phẩm 
-![alt text](image-8.png)
+![alt text](./public/dist/img/image-8.png)
 
 - Sơ đồ UML chức năng xóa sản phẩm 
-![alt text](image-9.png)
+![alt text](./public/dist/img/image-9.png)
 
 - Sơ đồ UML chức năng đặt đơn hàng 
-![alt text](image-10.png)
+![alt text](./public/dist/img/image-10.png)
 
 ### 5. Giao diện trang web 
 - Giao diện đăng nhậpnhập
-![alt text](image-11.png)
+![alt text](./public/dist/img/image-11.png)
 
 - Giao diện trang admin
-![alt text](image-12.png)
+![alt text](./public/dist/img/image-12.png)
 
 - Giao diện trang chủ 
-![alt text](image-13.png)
+![alt text](./public/dist/img/image-13.png)
 
 - Giao diện trang sản phẩm 
-![alt text](image-14.png)
+![alt text](./public/dist/img/image-14.png)
 
 - Giao diện giỏ hàng 
-![alt text](image-15.png)
+![alt text](./public/dist/img/image-15.png)
 
 - Giao diện liên hệ
-![alt text](image-16.png)
+![alt text](./public/dist/img/image-16.png)
