@@ -1,6 +1,6 @@
 FROM php:8.2
 
-# Cài các extension Laravel cần
+# Install Laravel dependencies
 RUN apt-get update && apt-get install -y \
     git unzip zip curl libpng-dev libonig-dev libxml2-dev libzip-dev \
     && docker-php-ext-install pdo pdo_mysql mbstring zip
@@ -8,15 +8,24 @@ RUN apt-get update && apt-get install -y \
 # Cài Composer
 COPY --from=composer:latest /usr/bin/composer /usr/bin/composer
 
-# Copy project code
+# Set working directory
 WORKDIR /var/www
+
+# Copy project
 COPY . .
 
-# Cài các package Laravel
-RUN composer install
+# Cài package
+RUN composer install --no-dev --optimize-autoloader
 
-# Mở cổng cho Render
+# Set permissions
+RUN chown -R www-data:www-data /var/www \
+    && chmod -R 775 /var/www/storage
+
+# Laravel cần key để chạy
+RUN php artisan config:clear && php artisan route:clear
+
+# Expose port
 EXPOSE 8000
 
-# Lệnh chạy Laravel
-CMD php artisan serve --host=0.0.0.0 --port=$PORT
+# Entrypoint dùng shell để biến $PORT được parse đúng
+ENTRYPOINT ["/bin/sh", "-c", "php artisan serve --host=0.0.0.0 --port=${PORT:-8000}"]

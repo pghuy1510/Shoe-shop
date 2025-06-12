@@ -48,7 +48,7 @@
                   <td>{{$kh->NgaySinhKH}}</td>
                   <td>{{$kh->EmailKH}}</td>
                   <td>{{$kh->DienThoaiKH}}</td>
-                  <td>{{$kh->DiaChiKH}}</td>
+                  <td>{{$kh->DiaChiKH}}</td> 
                   <td>
                     <a href="admin/khachhang/xemkhachhang/{{$kh->id_KH}}"><button class="btn btn-light text-white"><i class="fa  fa-tripadvisor"></i>Xem</button></a>
                   </td>
