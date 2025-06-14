@@ -126,7 +126,7 @@ Sơ đồ các chức năng :
 
 ![alt text](./public/images/image-9.png)
 
--Code View
+- Code View
 
 ![alt text](./public/images/image-11.png)
 
