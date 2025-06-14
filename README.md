@@ -16,7 +16,7 @@ Lớp: K16-CNTT3
 
 ### 3. Sơ đồ cấu trúc (Class Diagram)
 
-![alt text](image.png)
+![alt text](./public/images/image.png)
 
 ### 3. Sơ đồ thuật toán (Activity Diagram)
 
@@ -92,53 +92,53 @@ Sơ đồ các chức năng :
 
 - Code Model
 
-![alt text](image-1.png)
+![alt text](./public/images/image-1.png)
 
 - Code Controller
 
-![alt text](image-2.png)
+![alt text](./public/images/image-2.png)
 
 - Code View
 
-![alt text](image-3.png)
+![alt text](./public/images/image-3.png)
 
 6.2. Code Model/Controller và View của sản phẩm
 
 - Code Model
 
-![alt text](image-6.png)
+![alt text](./public/images/image-6.png)
 
 - Code Controller
 
-![alt text](image-5.png)
+![alt text](./public/images/image-5.png)
 
 - Code View
 
-![alt text](image-7.png) 
+![alt text](./public/images/image-7.png) 
 
 6.3. Code Model/Controller và View của đơn đặt hàng
 
 - Code Model
 
-![alt text](image-10.png)
+![alt text](./public/images/image-10.png)
 
 - Code Controller
 
-![alt text](image-9.png)
+![alt text](./public/images/image-9.png)
 
 -Code View
 
-![alt text](image-11.png)
+![alt text](./public/images/image-11.png)
 
 6.4. Code Model/Controller của quản trị viên
 
 - Code Model
 
-![alt text](image-12.png)
+![alt text](./public/images/image-12.png)
 
 - Code Controller
 
-![alt text](image-13.png)
+![alt text](./public/images/image-13.png)
 
 
 ### 7. Link repository
