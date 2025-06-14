@@ -14,45 +14,49 @@ Mã số sinh viên: 22010043
 
 Lớp: K16-CNTT3
 
-### 3. Sơ đồ khối UML
+### 3. Sơ đồ cấu trúc (Class Diagram)
+
+![alt text](image.png)
+
+### 3. Sơ đồ thuật toán (Activity Diagram)
 
 - Sơ đồ của trang web
 
 ![alt text](./public/dist/img/image-1.png)
 
-### 4. Sơ đồ các chức năng UML
+### 4. Sơ đồ các chức năng 
 
-Sơ đồ các chức năng UML:
+Sơ đồ các chức năng :
 
-- Sơ đồ UML chức năng đăng nhập người dùng
+- Sơ đồ chức năng đăng nhập người dùng
 
     ![alt text](./public/dist/img/image-2.png)
 
-- Sơ đồ UML chức năng đăng nhập admin
+- Sơ đồ chức năng đăng nhập admin
 
 ![alt text](./public/dist/img/image.png)
 
-- Sơ đồ UML chức năng danh sách sản phẩm
+- Sơ đồ chức năng danh sách sản phẩm
 
 ![alt text](./public/dist/img/image-7.png)
 
-- Sơ đồ UML chức năng thêm sản phẩm
+- Sơ đồ chức năng thêm sản phẩm
 
 ![alt text](./public/dist/img/image-4.png)
 
-- Sơ đồ UML chức năng sửa sản phẩm 
+- Sơ đồ chức năng sửa sản phẩm 
 
 ![alt text](./public/dist/img/image-5.png)
 
-- Sơ đồ UML chức năng xem sản phẩm 
+- Sơ đồ chức năng xem sản phẩm 
 
 ![alt text](./public/dist/img/image-8.png)
 
-- Sơ đồ UML chức năng xóa sản phẩm 
+- Sơ đồ chức năng xóa sản phẩm 
 
 ![alt text](./public/dist/img/image-9.png)
 
-- Sơ đồ UML chức năng đặt đơn hàng 
+- Sơ đồ chức năng đặt đơn hàng 
 
 ![alt text](./public/dist/img/image-10.png)
 
@@ -81,3 +85,64 @@ Sơ đồ các chức năng UML:
 - Giao diện liên hệ
 
 ![alt text](./public/dist/img/image-16.png)
+
+### 6. Code minh họa phần chính của project
+
+6.1.Code Model/Controller và view của người dùng
+
+- Code Model
+
+![alt text](image-1.png)
+
+- Code Controller
+
+![alt text](image-2.png)
+
+- Code View
+
+![alt text](image-3.png)
+
+6.2. Code Model/Controller và View của sản phẩm
+
+- Code Model
+
+![alt text](image-6.png)
+
+- Code Controller
+
+![alt text](image-5.png)
+
+- Code View
+
+![alt text](image-7.png) 
+
+6.3. Code Model/Controller và View của đơn đặt hàng
+
+- Code Model
+
+![alt text](image-10.png)
+
+- Code Controller
+
+![alt text](image-9.png)
+
+-Code View
+
+![alt text](image-11.png)
+
+6.4. Code Model/Controller của quản trị viên
+
+- Code Model
+
+![alt text](image-12.png)
+
+- Code Controller
+
+![alt text](image-13.png)
+
+
+### 7. Link repository
+https://github.com/pghuy1510/Shoe-shop.git
+
+### 8. Link deploy
+http://43.208.78.31/home
