@@ -30,7 +30,10 @@ Sơ đồ các chức năng :
 
 - Sơ đồ chức năng đăng nhập người dùng
 
-    ![alt text](./public/dist/img/image-2.png)
+<p align="center">
+  <img src="./public/dist/img/image-2.png" width="400">
+</p>
+
 
 - Sơ đồ chức năng đăng nhập admin
 
@@ -38,7 +41,10 @@ Sơ đồ các chức năng :
 
 - Sơ đồ chức năng danh sách sản phẩm
 
-![alt text](./public/dist/img/image-7.png)
+<p align="center">
+  <img src="./public/dist/img/image-7.png" width="600">
+</p>
+
 
 - Sơ đồ chức năng thêm sản phẩm
 
@@ -50,11 +56,17 @@ Sơ đồ các chức năng :
 
 - Sơ đồ chức năng xem sản phẩm 
 
-![alt text](./public/dist/img/image-8.png)
+<p align="center">
+  <img src="./public/dist/img/image-8.png" width="500">
+</p>
+
 
 - Sơ đồ chức năng xóa sản phẩm 
 
-![alt text](./public/dist/img/image-9.png)
+<p align="center">
+  <img src="./public/dist/img/image-9.png" width="400">
+</p>
+
 
 - Sơ đồ chức năng đặt đơn hàng 
 
