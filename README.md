@@ -18,20 +18,20 @@ Lớp: K16-CNTT3
 
 ![alt text](./public/images/image.png)
 
-### 3. Sơ đồ thuật toán (Activity Diagram)
+### 4. Sơ đồ thuật toán (Activity Diagram)
 
 - Sơ đồ của trang web
 
 ![alt text](./public/dist/img/image-1.png)
 
-### 4. Sơ đồ các chức năng 
+### 5. Sơ đồ các chức năng 
 
 Sơ đồ các chức năng :
 
 - Sơ đồ chức năng đăng nhập người dùng
 
 <p align="center">
-  <img src="./public/dist/img/image-2.png" width="400">
+  <img src="./public/dist/img/image-2.png" width="300">
 </p>
 
 
@@ -42,7 +42,7 @@ Sơ đồ các chức năng :
 - Sơ đồ chức năng danh sách sản phẩm
 
 <p align="center">
-  <img src="./public/dist/img/image-7.png" width="600">
+  <img src="./public/dist/img/image-7.png" width="500">
 </p>
 
 
@@ -57,14 +57,14 @@ Sơ đồ các chức năng :
 - Sơ đồ chức năng xem sản phẩm 
 
 <p align="center">
-  <img src="./public/dist/img/image-8.png" width="500">
+  <img src="./public/dist/img/image-8.png" width="400">
 </p>
 
 
 - Sơ đồ chức năng xóa sản phẩm 
 
 <p align="center">
-  <img src="./public/dist/img/image-9.png" width="400">
+  <img src="./public/dist/img/image-9.png" width="300">
 </p>
 
 
@@ -72,7 +72,7 @@ Sơ đồ các chức năng :
 
 ![alt text](./public/dist/img/image-10.png)
 
-### 5. Giao diện trang web
+### 6. Giao diện trang web
 
 - Giao diện đăng nhập 
 
@@ -98,9 +98,9 @@ Sơ đồ các chức năng :
 
 ![alt text](./public/dist/img/image-16.png)
 
-### 6. Code minh họa phần chính của project
+### 7. Code minh họa phần chính của project
 
-6.1.Code Model/Controller và view của người dùng
+7.1.Code Model/Controller và view của người dùng
 
 - Code Model
 
@@ -114,7 +114,7 @@ Sơ đồ các chức năng :
 
 ![alt text](./public/images/image-3.png)
 
-6.2. Code Model/Controller và View của sản phẩm
+7.2. Code Model/Controller và View của sản phẩm
 
 - Code Model
 
@@ -128,7 +128,7 @@ Sơ đồ các chức năng :
 
 ![alt text](./public/images/image-7.png) 
 
-6.3. Code Model/Controller và View của đơn đặt hàng
+7.3. Code Model/Controller và View của đơn đặt hàng
 
 - Code Model
 
@@ -142,7 +142,7 @@ Sơ đồ các chức năng :
 
 ![alt text](./public/images/image-11.png)
 
-6.4. Code Model/Controller của quản trị viên
+7.4. Code Model/Controller của quản trị viên
 
 - Code Model
 
@@ -153,8 +153,8 @@ Sơ đồ các chức năng :
 ![alt text](./public/images/image-13.png)
 
 
-### 7. Link repository
+### 8. Link repository
 https://github.com/pghuy1510/Shoe-shop.git
 
-### 8. Link deploy
+### 9. Link deploy
 http://43.208.78.31/home
